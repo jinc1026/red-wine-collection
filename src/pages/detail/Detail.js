@@ -1,6 +1,6 @@
 import { useParams } from 'react-router-dom'
 import useFetch from '../../hooks/useFetch'
-
+import { useTheme } from '../../hooks/useTheme'
 // styles
 import './Detail.css'
 
@@ -8,10 +8,10 @@ export default function Detail(){
 	const { id } = useParams()
 	const url = "https://my-json-server.typicode.com/jinc1026/red-wine-collection/wines/" + id;
 	const { data, isPending, error } = useFetch(url)
-	
+	const { mode } = useTheme()
 	
 	return(
-		<div className="detail">
+		<div className={`detail ${mode}`}>
 			{isPending && <p>Loading...</p>}
 			{error && <p>Unable to show detail</p>}
 			{data && (<>

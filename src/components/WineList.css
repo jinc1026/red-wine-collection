@@ -49,3 +49,13 @@
   margin-left: auto; 
   margin-right: auto; 
 }
+
+/* dark mode */
+.wine-list .card.dark {
+  background: #555;
+}
+.wine-list .card.dark p,
+.wine-list .card.dark h3,
+.wine-list .card.dark div {
+  color: #e4e4e4;
+}
