@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/red-wine-collection/static/css/main.bf997178.chunk.css",
-    "main.js": "/red-wine-collection/static/js/main.fb610926.chunk.js",
-    "main.js.map": "/red-wine-collection/static/js/main.fb610926.chunk.js.map",
+    "main.js": "/red-wine-collection/static/js/main.d9e16ad0.chunk.js",
+    "main.js.map": "/red-wine-collection/static/js/main.d9e16ad0.chunk.js.map",
     "runtime-main.js": "/red-wine-collection/static/js/runtime-main.ba27d166.js",
     "runtime-main.js.map": "/red-wine-collection/static/js/runtime-main.ba27d166.js.map",
     "static/js/2.4f767cdd.chunk.js": "/red-wine-collection/static/js/2.4f767cdd.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.ba27d166.js",
     "static/js/2.4f767cdd.chunk.js",
     "static/css/main.bf997178.chunk.css",
-    "static/js/main.fb610926.chunk.js"
+    "static/js/main.d9e16ad0.chunk.js"
   ]
 }
