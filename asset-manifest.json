@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/red-wine-collection/static/css/main.bf997178.chunk.css",
-    "main.js": "/red-wine-collection/static/js/main.d9e16ad0.chunk.js",
-    "main.js.map": "/red-wine-collection/static/js/main.d9e16ad0.chunk.js.map",
+    "main.css": "/red-wine-collection/static/css/main.3b37818a.chunk.css",
+    "main.js": "/red-wine-collection/static/js/main.a1acfdce.chunk.js",
+    "main.js.map": "/red-wine-collection/static/js/main.a1acfdce.chunk.js.map",
     "runtime-main.js": "/red-wine-collection/static/js/runtime-main.ba27d166.js",
     "runtime-main.js.map": "/red-wine-collection/static/js/runtime-main.ba27d166.js.map",
     "static/js/2.4f767cdd.chunk.js": "/red-wine-collection/static/js/2.4f767cdd.chunk.js",
     "static/js/2.4f767cdd.chunk.js.map": "/red-wine-collection/static/js/2.4f767cdd.chunk.js.map",
     "index.html": "/red-wine-collection/index.html",
-    "static/css/main.bf997178.chunk.css.map": "/red-wine-collection/static/css/main.bf997178.chunk.css.map",
+    "static/css/main.3b37818a.chunk.css.map": "/red-wine-collection/static/css/main.3b37818a.chunk.css.map",
     "static/js/2.4f767cdd.chunk.js.LICENSE.txt": "/red-wine-collection/static/js/2.4f767cdd.chunk.js.LICENSE.txt",
     "static/media/mode-icon.7cf51468.svg": "/red-wine-collection/static/media/mode-icon.7cf51468.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.ba27d166.js",
     "static/js/2.4f767cdd.chunk.js",
-    "static/css/main.bf997178.chunk.css",
-    "static/js/main.d9e16ad0.chunk.js"
+    "static/css/main.3b37818a.chunk.css",
+    "static/js/main.a1acfdce.chunk.js"
   ]
 }
