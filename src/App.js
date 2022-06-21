@@ -11,6 +11,7 @@ import Detail from './pages/detail/Detail'
 import Search from './pages/search/Search'
 import Navbar from './components/Navbar'
 import ThemeSelector from './components/ThemeSelector'
+import Footer from './components/Footer'
 
 
 function App() {
@@ -19,7 +20,7 @@ function App() {
 	
   return (
     <div className={`App ${mode}`}>
-		<BrowserRouter>
+		<BrowserRouter basename="/red-wine-collection">
 			<Navbar></Navbar>
 			<ThemeSelector></ThemeSelector>
 			<Switch>
@@ -28,6 +29,7 @@ function App() {
 				<Route path="/create"><Create /></Route>
 				<Route path="/search"><Search /></Route>
 			</Switch>
+			<Footer></Footer>
 		</BrowserRouter>
     </div>
   );

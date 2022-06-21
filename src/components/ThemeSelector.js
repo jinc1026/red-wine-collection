@@ -18,7 +18,7 @@ export default function ThemeSelector(){
 						  onClick={toggleMode}
 						  alt="mode selector"
 						  style={{ filter: mode === "dark" ?
-									          'invert(100%)' : 'invert(80%)'}}></img>
+									          'invert(100%)' : 'invert(20%)'}}></img>
 				</div>
 			<div className="theme-buttons">
 				{themeColors.map((color)=>(<div
