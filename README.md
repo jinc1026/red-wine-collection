@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Red-Wine-Collection
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A React Application to display a collection of red wines including name, winery, user rating and the number of ratings
+
+Please visit the following link for demo:
+https://jinc1026.github.io/red-wine-collection/
+
 
 ## Available Scripts
 
